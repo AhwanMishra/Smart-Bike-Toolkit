@@ -3,12 +3,13 @@ An Arduino based IOT project which helps in detecting bike accident and bike the
 
 Gadget for bike security, safety and useful in detecting bike accident. 
 
-Components Used:	Node MCU 1.0, Accelerometer sensor, Gyroscope, GPS sensor & Matrix keypad.
+Components Used:	Node MCU 1.0, Accelerometer sensor, Gyroscope, GPS sensor & Matrix keypad.
 
-Bike Safety: 	Password protection using matrix keypad.	Thefts are detected using accelerometer sensor.
-Bike Accident Detection:	Accelerometer sensor, Gyroscope & GPS sensor are used.	
+Bike Safety: 	Password protection using matrix keypad.	Thefts are detected using accelerometer sensor.
+Bike Accident Detection:	Accelerometer sensor, Gyroscope & GPS sensor are used.	
 
-Communication:	MQTT protocolConnectivity:	Wifi
+Communication:	MQTT protocol
+Connectivity:	Wifi
 
 A basic machine learning model (Decision Tree) is used to train the bike for accident detection.
 
