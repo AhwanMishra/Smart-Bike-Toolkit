@@ -1,5 +1,6 @@
 # Smart-Bike-Toolkit
 An Arduino based IOT project which helps in detecting bike accident and bike theft.
+
 This project was featured in NPTEL course Industry 4.0 (Prof. Sudip Misra) by IIT Kharagpur
 Link: https://youtu.be/a_vi1xB0_X0?t=185 
 
