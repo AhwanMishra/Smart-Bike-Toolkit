@@ -12,6 +12,7 @@ Bike Safety: 	Password protection using matrix keypad.	Thefts are detected using
 Bike Accident Detection:	Accelerometer sensor, Gyroscope & GPS sensor are used.	
 
 Communication:	MQTT protocol
+
 Connectivity:	Wifi
 
 A basic machine learning model (Decision Tree) is used to train the bike for accident detection.
